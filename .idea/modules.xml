@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MainActivity/MainActivity.iml" filepath="$PROJECT_DIR$/MainActivity/MainActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MapActivity.iml" filepath="$PROJECT_DIR$/MapActivity.iml" />
+    </modules>
+  </component>
+</project>
+
